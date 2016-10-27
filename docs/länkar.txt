@@ -1,0 +1,3 @@
+http://rogerdudler.github.io/git-guide/
+
+https://developer.xamarin.com/guides/cross-platform/game_development/
