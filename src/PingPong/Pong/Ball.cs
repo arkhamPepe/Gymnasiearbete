@@ -21,6 +21,9 @@ namespace Pong
             _y = x;
         }
 
+        /// <summary>
+        /// Change current direction, horizontally.
+        /// </summary>
         public void Turn()
         {
             if (direction)
