@@ -1,3 +1,12 @@
 http://rogerdudler.github.io/git-guide/
 
 https://developer.xamarin.com/guides/cross-platform/game_development/
+
+https://developer.apple.com/library/content/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html
+
+https://blog.xamarin.com/make-games-with-xamarin-ios-and-sprite-kit/
+
+https://www.raywenderlich.com/118225/introduction-sprite-kit-scene-editor
+
+WHY USE STATIC IN FRONT OF METHODS:
+http://stackoverflow.com/questions/4124102/whats-a-static-method-in-c
